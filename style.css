@@ -1,0 +1,30 @@
+/* Custom Styles */
+
+header {
+    background-image: url('../img/header-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 300px;
+}
+
+.card {
+    border: none;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+ul li {
+    margin: 0.5rem 0;
+}
+
+section h5 {
+    color: #6c757d;
+}
+
+footer {
+    background-color: #343a40;
+}
